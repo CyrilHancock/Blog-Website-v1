@@ -20,5 +20,5 @@ http://localhost:3000
 ## See it Now
 Visit "https://aqueous-river-61479.herokuapp.com/compose"
 
-Preview
+# Preview
 ![This is an image](/blogv1preview.png)
